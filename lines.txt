@@ -1,10 +1,13 @@
-
+// Git for version control in GitHub  ***
+// **************************************
 git clone 
 git statis
-git add *****
+git add filename
 git add -A
-git commit -m "jvjgig"
+git commit -m "comments"
 git push
+
+
 
 git pull
 
